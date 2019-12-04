@@ -1,0 +1,9 @@
+.ImageHover:hover img{
+    transform: scale(1.1);
+}
+.category a span:hover{
+    color: rgb(63, 214, 43);
+}
+
+
+
